@@ -14,6 +14,7 @@
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
