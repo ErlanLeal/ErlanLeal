@@ -33,7 +33,7 @@
 
 <p align="left" style="background:yellow">
 <a href="[https://www.linkedin.com/in/erlanlealdalmeida/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-erlanleal-000?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-erlanleal-000?style=linkedin" alt="linkedin"/>
 </a>
 </p>
 
