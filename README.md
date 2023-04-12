@@ -29,13 +29,6 @@
 ![Calm](https://img.shields.io/badge/-Calm-000?&logo=Calm)
 <br><br>
 
-## 🪪 Contact
-
-<p align="left" style="background:yellow">
-<a href="[https://www.linkedin.com/in/erlanlealdalmeida/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-erlanleal-000?style=logo=linkedin" alt="linkedin"/>
-</a>
-</p>
 
 
 
