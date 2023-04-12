@@ -1,5 +1,5 @@
 ### 👋 Hello! Welcome to my Github profile! My name is Erlan!
------------------------------------------------------------------------------------------------------------------------------------
+
 
 - 🔥 Python Developer / Data Analyst
 - 🔭 I’m currently working on Suridata Tecnologia
@@ -8,7 +8,7 @@
 - <br><br>
 
 ## 🛠 Things I code with
------------------------------------------------------------------------------------------------------------------------------------
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
@@ -22,7 +22,7 @@
 <br><br>
 
 ## Contact
------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="left" style="background:yellow">
 <a href="[https://www.linkedin.com/in/erlanlealdalmeida/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-erlanleal-05122A?style=flat&logo=linkedin" alt="linkedin"/>
