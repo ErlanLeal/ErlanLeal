@@ -7,7 +7,7 @@
 - 💬 Ask me about **Python**, **Pandas**, **Matplotlib**, **Numpy**, etc.
 - <br><br>
 
-## 🛠 Things I code with
+## 🛠 &nbsp;Things I code with
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
