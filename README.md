@@ -1,4 +1,7 @@
-### 👋 Hi! My name is Erlan!
+<p align="center">
+	<img src="banner-github.png">
+</p>
+
 <br><br>
 - 🔥 Python Developer / Data Analyst
 - 🔭 I’m currently working on Suridata Healthcare and Cost Solutions
