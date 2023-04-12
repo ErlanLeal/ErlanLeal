@@ -2,8 +2,8 @@
 
 <br><br>
 - 🔥 Python Developer / Data Analyst
-- 🔭 I’m currently working on Suridata Tecnologia
-- 🌱 I’m currently learning more about Python, R and Data Science techniques
+- 🔭 I’m currently working on Suridata Healthcare and Cost Solutions
+- 🌱 I’m currently learning more about Data Science techniques
 - 💬 Ask me about **Python**, **Pandas**, **Matplotlib**, **Numpy**, etc.
 <br><br>
 
