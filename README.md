@@ -21,7 +21,6 @@
 ![Spyder](https://img.shields.io/badge/-Spyder-05122A?style=flat&logo=spyder)&nbsp;
 ![DataStudio](https://img.shields.io/badge/-DataStudio-05122A?style=flat&logo=datastudio)&nbsp;
 ![Looker](https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker)&nbsp;
-![Qlik](https://img.shields.io/badge/-Qlik-05122A?style=flat&logo=qliksense)&nbsp;
 
 
 
