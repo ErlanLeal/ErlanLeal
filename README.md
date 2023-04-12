@@ -13,13 +13,10 @@
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 <br><br>
 
 ## ✌🏻 &nbsp;About me
