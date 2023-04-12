@@ -1,6 +1,6 @@
-### 👋 &nbsp;Hello! Welcome to my Github profile! My name is Erlan!
+### 👋 Hello! Welcome to my Github profile! My name is Erlan!
 
-
+<br><br>
 - 🔥 Python Developer / Data Analyst
 - 🔭 I’m currently working on Suridata Tecnologia
 - 🌱 I’m currently learning more about Python, R and Data Science techniques
