@@ -21,7 +21,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 <br><br>
 
-## Contact
+## 🪪 Contact
 
 <p align="left" style="background:yellow">
 <a href="[https://www.linkedin.com/in/erlanlealdalmeida/" target="_blank">
