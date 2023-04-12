@@ -22,12 +22,12 @@
 
 ## ✌🏻 &nbsp;About me
 
-![Leadership](https://img.shields.io/badge/-Leadership-05122A?style=flat&logo=Leadership)&nbsp;
-![Creativity](https://img.shields.io/badge/-Creativity-05122A?style=flat&logo=creativity)&nbsp;
-![Empathy](https://img.shields.io/badge/-Empathy-05122A?style=flat&logo=empathy)&nbsp;
-![Collaborative](https://img.shields.io/badge/-Collaborative-05122A?style=flat&logo=collaborative)&nbsp;
-![Practicality](https://img.shields.io/badge/-Practicality-05122A?style=flat&logo=practicality)&nbsp;
-![Calm](https://img.shields.io/badge/-Calm-05122A?style=flat&logo=calm)&nbsp;
+![Leadership](https://img.shields.io/badge/-Leadership-000?&logo=Leadership)
+![Creativity](https://img.shields.io/badge/-Creativity-000?&logo=Creativity)
+![Empathy](https://img.shields.io/badge/-Empathy-000?&logo=Empathy)
+![Collaborative](https://img.shields.io/badge/-Collaborative-000?&logo=Collaborative)
+![Practicality](https://img.shields.io/badge/-Practicality-000?&logo=Practicality)
+![Calm](https://img.shields.io/badge/-Calm-000?&logo=Calm)
 <br><br>
 
 ## 🪪 Contact
