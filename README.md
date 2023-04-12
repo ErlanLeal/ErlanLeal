@@ -2,7 +2,6 @@
 	<img src="banner-github-sky.png">
 </p>
 
-<br><br>
 - 🔥 Python Developer / Data Analyst
 - 🔭 I’m currently working on Suridata Healthcare and Cost Solutions
 - 🌱 I’m currently learning more about Data Science techniques
