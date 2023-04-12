@@ -11,7 +11,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=NodeJS)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
