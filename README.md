@@ -10,7 +10,7 @@
 
 ## 💻 &nbsp;Things I code with
 <p align="center">
-	<img src="banner-github-l.png">
+	<img src="banner-github-l2.png">
 </p>
 
 ## ✌🏻 &nbsp;About me
