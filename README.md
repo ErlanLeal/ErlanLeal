@@ -15,9 +15,15 @@
 
 ## ✌🏻 &nbsp;About me
 
-<p align="center">
-	<img src="about-me-center.png">
-</p>
+-  Leadership
+-  Creativity
+-  Focused
+-  Empathy
+-  Collaborative
+-  Efficient
+-  Calm
+-  Proactive
+<br><br>
 
 <p align="center">
 	<img src="banner-github-ground.png">
