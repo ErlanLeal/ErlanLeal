@@ -23,7 +23,7 @@
 -  Efficient
 -  Calm
 -  Proactive
-<br><br>
+
 
 <p align="center">
 	<img src="banner-github-ground.png">
