@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="banner-github-sky.png">
+	<img src="banner-github-center.png">
 </p>
 
 - 🔥 Python Developer / Data Analyst
@@ -10,7 +10,7 @@
 
 ## 💻 &nbsp;Things I code with
 <p align="center">
-	<img src="banner-github-technologies.png">
+	<img src="banner-github-l.png">
 </p>
 
 ## ✌🏻 &nbsp;About me
