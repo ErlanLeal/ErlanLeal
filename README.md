@@ -16,7 +16,7 @@
 ## ✌🏻 &nbsp;About me
 
 <p align="center">
-	<img src="about-me.png">
+	<img src="about-me-center.png">
 </p>
 
 <p align="center">
