@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="img/top-01.png">
 </p>
-<br></br>
+
 ## 🖐🏻 &nbsp;Welcome to my GitHub!
 <br></br>
 - 🐍 Python Developer / Data Analyst
