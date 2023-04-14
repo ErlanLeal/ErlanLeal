@@ -1,20 +1,20 @@
-<p align="center">
-	<img src="banner-github-center.png">
-</p>
 
-- 🔥 Python Developer / Data Analyst
+
+## 🖐🏻 &nbsp;Welcome to my GitHub!
+<br></br>
+- 🐍 Python Developer / Data Analyst
 - 🔭 I’m currently working on Suridata Healthcare and Cost Solutions
-- 🌱 I’m currently learning more about Data Science
-- 💬 Ask me about **Python**, **Pandas**, **Matplotlib**, **Numpy**, etc.
+- 🌱 I’m currently learning more about Airflow
+- 💬 Ask me about **Python**, **Pandas**, **Numpy**, etc.
 <br><br>
 
 ## 💻 &nbsp;Things I code with
 <p align="center">
-	<img src="banner-github-l2.png">
+	<img src="img/technologies.png">
 </p>
 
-## ✌🏻 &nbsp;About me
-
+## 🫀 &nbsp;About me
+<br></br>
 -  Leadership
 -  Creativity
 -  Focused
@@ -24,9 +24,5 @@
 -  Calm
 -  Proactive
 
-
-<p align="center">
-	<img src="banner-github-ground.png">
-</p>
 
 
