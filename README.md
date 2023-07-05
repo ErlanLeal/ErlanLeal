@@ -6,7 +6,7 @@
 <br></br>
 - 🐍 Python Developer / Data Analyst
 - 🔭 I’m currently working on Suridata Healthcare and Cost Solutions
-- 🌱 I’m currently learning more about Airflow
+- 🌱 I’m currently learning more about Project Management
 - 💬 Ask me about **Python**, **Pandas**, **Numpy**, **Selenium**, etc.
 <br><br>
 
