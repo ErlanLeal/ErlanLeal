@@ -4,7 +4,7 @@
 
 ## 🖐🏻 &nbsp;Welcome to my GitHub!
 <br></br>
-- 🐍 MERN FullStack - Developer / Project Manager
+- 💻 MERN FullStack - Developer / Project Manager
 - 🔭 I’m currently working on Suridata Healthcare and Cost Solutions
 - 🌱 I’m currently learning more about Project Management
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, **Tailwind**, etc.
