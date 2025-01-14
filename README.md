@@ -4,10 +4,10 @@
 
 ## 🖐🏻 &nbsp;Welcome to my GitHub!
 <br></br>
-- 🐍 Python Developer / Data Analyst
+- 🐍 MERN FullStack - Developer / Project Manager
 - 🔭 I’m currently working on Suridata Healthcare and Cost Solutions
 - 🌱 I’m currently learning more about Project Management
-- 💬 Ask me about **Python**, **Pandas**, **Numpy**, **Selenium**, etc.
+- 💬 Ask me about **JavaScript**, **React**, **Node.js**, **Tailwind**, etc.
 <br><br>
 
 ## 💻 &nbsp;Things I code with
