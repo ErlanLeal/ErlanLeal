@@ -6,7 +6,7 @@
 <br></br>
 - 💻 Platform Manager at **Suridata**, healthtech BI for health insurance brokers and operators
 - 🔭 Leading the data platform: extraction, ETL and delivery for ~70 health insurers
-- 🌱 Currently into data engineering on GCP, MCP servers and AI-driven automation
+- 🌱 Currently into AI engineering: RAG, fine-tuning, MCP servers and spec-driven development
 - 💬 Ask me about **Python**, **BigQuery**, **React**, **Next.js**, **Supabase**, etc.
 <br><br>
 
@@ -19,7 +19,9 @@
 
 **Data & Platform:** BigQuery · Cloud Storage · Cloud Functions · Cloud Build · Secret Manager · Airflow · Databricks · Pandas · Pandera · Pydantic
 
-**AI & Automation:** MCP (FastMCP) · Claude · Activepieces
+**AI Engineering:** RAG · Fine-tuning · MCP (FastMCP) · Spec-driven development · AI agents · Claude
+
+**Automation:** Activepieces
 
 **BI:** Power BI · Qlik Sense
 
