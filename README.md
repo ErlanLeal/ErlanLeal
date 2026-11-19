@@ -25,7 +25,6 @@
 
 ## 🚀 &nbsp;What I've been building
 <br></br>
-- **Suri MCP:** MCP server on Cloud Run that lets a broker's AI agent (Claude, ChatGPT) query aggregated health data from its own portfolio, with LGPD privacy guards
 - **Data Platform API:** FastAPI service with JWT auth for querying BigQuery data by company and period
 - **Health ETL pipelines:** bronze/silver pipelines in Python on GCP, deployed with Cloud Build
 - **Control Tower:** SLA dashboard tracking the whole data delivery operation
