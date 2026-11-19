@@ -1,27 +1,18 @@
 <p align="center">
-	<img src="img/banner.jpg" alt="Erlan D'Almeida banner" />
+	<img src="img/banner.jpg" alt="Banner" />
 </p>
 
 <p align="center">
-	<img src="img/header.svg" alt="AI Engineering · Platform Manager @ Suridata" />
+	<img src="img/nameplate.svg" alt="Erlan D'Almeida · Platform · Data · AI" width="100%" />
 </p>
 
-<p align="center">
-	<a href="mailto:erlan.rj@gmail.com"><img src="https://img.shields.io/badge/erlan.rj@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff3b30" alt="Email" /></a>
-</p>
-
-<img src="img/divider.svg" width="100%" />
-
-## ⚡ &nbsp;Welcome to my GitHub!
+<img src="img/sec-01.svg" alt="01 // PROFILE" width="100%" />
 
 - 💻 Platform Manager at **Suridata**, healthtech BI for health insurance brokers and operators
 - 🔭 Leading the data platform: extraction, ETL and delivery for ~70 health insurers
-- 🌱 Currently into AI engineering: RAG, fine-tuning, MCP servers and spec-driven development
 - 💬 Ask me about **RAG**, **fine-tuning**, **MCP**, **spec-driven development**, **AI agents**, **BigQuery**, etc.
 
-<img src="img/divider.svg" width="100%" />
-
-## 🧠 &nbsp;AI Engineering
+<img src="img/sec-02.svg" alt="02 // AI ENGINEERING" width="100%" />
 
 <p align="center">
 	<img src="https://img.shields.io/badge/RAG-0f3d27?style=for-the-badge" alt="RAG" />
@@ -32,15 +23,13 @@
 	<img src="https://img.shields.io/badge/Claude-0f3d27?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
-## 💻 &nbsp;Things I code with
+<img src="img/sec-03.svg" alt="03 // ARSENAL" width="100%" />
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=py,fastapi,ts,js,react,nextjs,tailwind,vite,laravel,php&perline=10" />
 	<br>
 	<img src="https://skillicons.dev/icons?i=gcp,supabase,mysql,postgres,docker,githubactions,linux,nodejs&perline=10" />
 </p>
-
-## 🛰️ &nbsp;Data & Platform
 
 <p align="center">
 	<img src="https://img.shields.io/badge/BigQuery-4a1512?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
@@ -55,25 +44,25 @@
 	<img src="https://img.shields.io/badge/Pydantic-4a1512?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
 </p>
 
-## 📊 &nbsp;BI & Automation
-
 <p align="center">
 	<img src="https://img.shields.io/badge/Activepieces-1a1a1a?style=for-the-badge" alt="Activepieces" />
 	<img src="https://img.shields.io/badge/Power%20BI-1a1a1a?style=for-the-badge" alt="Power BI" />
 	<img src="https://img.shields.io/badge/Qlik%20Sense-1a1a1a?style=for-the-badge" alt="Qlik Sense" />
 </p>
 
-<img src="img/divider.svg" width="100%" />
-
-## 🚀 &nbsp;What I've been building
+<img src="img/sec-04.svg" alt="04 // MISSIONS" width="100%" />
 
 - **Data Platform API:** FastAPI service with JWT auth for querying BigQuery data by company and period
 - **Health ETL pipelines:** bronze/silver pipelines in Python on GCP, deployed with Cloud Build
 - **Control Tower:** SLA dashboard tracking the whole data delivery operation
 - **Quality automation:** replacing manual QA tasks and legacy Qlik flows with automated checks
 
-## 🫀 &nbsp;About me
+<img src="img/sec-05.svg" alt="05 // PILOT" width="100%" />
 
 <p align="center"><b>Leadership · Creativity · Focused · Empathy · Collaborative · Efficient · Calm · Proactive</b></p>
 
 <img src="img/divider.svg" width="100%" />
+
+<p align="center">
+	<a href="mailto:erlan.rj@gmail.com"><img src="https://img.shields.io/badge/erlan.rj@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff3b30" alt="Email" /></a>
+</p>
