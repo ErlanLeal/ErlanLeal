@@ -61,8 +61,6 @@
 
 <p align="center"><b>Leadership · Creativity · Focused · Empathy · Collaborative · Efficient · Calm · Proactive</b></p>
 
-<img src="img/divider.svg" width="100%" />
-
 <p align="center">
-	<a href="mailto:erlan.rj@gmail.com"><img src="https://img.shields.io/badge/erlan.rj@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff3b30" alt="Email" /></a>
+	<a href="mailto:erlan.rj@gmail.com"><img src="img/footer.svg" alt="Contact: erlan.rj@gmail.com" width="100%" /></a>
 </p>

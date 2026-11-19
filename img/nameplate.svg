@@ -7,14 +7,14 @@
 @keyframes fade{from{opacity:0}to{opacity:1}}
 .ln{stroke-dasharray:140;stroke-dashoffset:140;animation:draw 1s .5s ease-out forwards}
 @keyframes draw{to{stroke-dashoffset:0}}
-.dia{transform-box:fill-box;transform-origin:center;animation:spin 8s linear infinite}
-@keyframes spin{from{transform:rotate(45deg)}to{transform:rotate(405deg)}}
+.rl{animation:pulse 4s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.65}50%{opacity:1}}.dia{transform-box:fill-box;transform-origin:center;transform:rotate(45deg);animation:spin 8s linear infinite}@keyframes spin{from{transform:rotate(45deg)}to{transform:rotate(405deg)}}
 .dot{animation:p 2s ease-in-out infinite} @keyframes p{50%{opacity:.25}}
 @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
 <text class="n" x="450" y="52" text-anchor="middle">ERLAN D’ALMEIDA</text>
-<line class="ln" x1="440" y1="72" x2="300" y2="72" stroke="#ff3b30" stroke-width="2"/>
-<line class="ln" x1="460" y1="72" x2="600" y2="72" stroke="#2ee88a" stroke-width="2"/>
-<rect class="dia" x="446" y="68" width="8" height="8" fill="none" stroke="#e8e8e8" stroke-width="1.5"/>
+<defs><linearGradient id="rgn" x1="0" x2="1"><stop offset="0" stop-color="#ff3b30" stop-opacity="0"/><stop offset=".25" stop-color="#ff3b30"/><stop offset=".5" stop-color="#3a3a3a"/><stop offset=".75" stop-color="#2ee88a"/><stop offset="1" stop-color="#2ee88a" stop-opacity="0"/></linearGradient>
+<filter id="rfn" x="-10%" y="-300%" width="120%" height="700%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect class="rl" x="280" y="71" width="340" height="2" fill="url(#rgn)" filter="url(#rfn)"/>
+<rect class="dia" x="445" y="67" width="10" height="10" fill="#0d1117" stroke="#2ee88a" stroke-width="1.6"/>
 <text class="r" x="450" y="100" text-anchor="middle">PLATFORM · DATA · AI</text>
 <g class="s"><circle class="dot" cx="383" cy="120" r="3.5" fill="#2ee88a"/><text x="393" y="124">SYSTEMS ONLINE</text></g>
 </svg>
