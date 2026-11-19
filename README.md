@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<img src="img/nameplate.svg" alt="Erlan D'Almeida · Platform · Data · AI" width="100%" />
+	<img src="img/nameplate.svg" alt="Platform · Data · AI" width="100%" />
 </p>
 
 <img src="img/sec-01.svg" alt="01 // PROFILE" width="100%" />
