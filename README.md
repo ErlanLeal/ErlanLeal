@@ -54,7 +54,7 @@
 
 - **Data Platform API:** FastAPI service with JWT auth for querying BigQuery data by company and period
 - **Health ETL pipelines:** bronze/silver pipelines in Python on GCP, deployed with Cloud Build
-- **Control Tower:** SLA dashboard tracking the whole data delivery operation
+- **[Control Tower](https://github.com/ErlanLeal/dash-suri-atendimento):** SLA dashboard tracking the whole data delivery operation
 - **Quality automation:** replacing manual QA tasks and legacy Qlik flows with automated checks
 
 <img src="img/hdr-05.svg" alt="05 // PILOT" width="100%" />
