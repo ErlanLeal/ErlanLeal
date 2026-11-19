@@ -1,18 +1,18 @@
 <p align="center">
-	<img src="img/banner.svg" alt="Banner" width="100%" />
+	<img src="img/hero.svg" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
-	<img src="img/nameplate.svg" alt="Platform · Data · AI" width="100%" />
+	<img src="img/tagline.svg" alt="Platform · Data · AI" width="100%" />
 </p>
 
-<img src="img/sec-01.svg" alt="01 // PROFILE" width="100%" />
+<img src="img/hdr-01.svg" alt="01 // PROFILE" width="100%" />
 
 - 💻 Platform Manager at **Suridata**, healthtech BI for health insurance brokers and operators
 - 🔭 Leading the data platform: extraction, ETL and delivery for ~70 health insurers
 - 💬 Ask me about **RAG**, **fine-tuning**, **MCP**, **spec-driven development**, **AI agents**, **BigQuery**, etc.
 
-<img src="img/sec-02.svg" alt="02 // AI ENGINEERING" width="100%" />
+<img src="img/hdr-02.svg" alt="02 // AI ENGINEERING" width="100%" />
 
 <p align="center">
 	<img src="https://img.shields.io/badge/RAG-0f3d27?style=for-the-badge" alt="RAG" />
@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/Claude-0f3d27?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
-<img src="img/sec-03.svg" alt="03 // ARSENAL" width="100%" />
+<img src="img/hdr-03.svg" alt="03 // ARSENAL" width="100%" />
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=py,fastapi,ts,js,react,nextjs,tailwind,vite,laravel,php&perline=10" />
@@ -50,19 +50,19 @@
 	<img src="https://img.shields.io/badge/Qlik%20Sense-1a1a1a?style=for-the-badge" alt="Qlik Sense" />
 </p>
 
-<img src="img/sec-04.svg" alt="04 // MISSIONS" width="100%" />
+<img src="img/hdr-04.svg" alt="04 // MISSIONS" width="100%" />
 
 - **Data Platform API:** FastAPI service with JWT auth for querying BigQuery data by company and period
 - **Health ETL pipelines:** bronze/silver pipelines in Python on GCP, deployed with Cloud Build
 - **Control Tower:** SLA dashboard tracking the whole data delivery operation
 - **Quality automation:** replacing manual QA tasks and legacy Qlik flows with automated checks
 
-<img src="img/sec-05.svg" alt="05 // PILOT" width="100%" />
+<img src="img/hdr-05.svg" alt="05 // PILOT" width="100%" />
 
 <p align="center"><b>Leadership · Creativity · Focused · Empathy · Collaborative · Efficient · Calm · Proactive</b></p>
 
 <br>
 
 <p align="center">
-	<a href="mailto:erlan.rj@gmail.com"><img src="img/footer.svg" alt="Contact: erlan.rj@gmail.com" width="100%" /></a>
+	<a href="mailto:erlan.rj@gmail.com"><img src="img/outro.svg" alt="Contact: erlan.rj@gmail.com" width="100%" /></a>
 </p>
