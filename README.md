@@ -7,7 +7,7 @@
 - 💻 Platform Manager at **Suridata**, healthtech BI for health insurance brokers and operators
 - 🔭 Leading the data platform: extraction, ETL and delivery for ~70 health insurers
 - 🌱 Currently into AI engineering: RAG, fine-tuning, MCP servers and spec-driven development
-- 💬 Ask me about **Python**, **BigQuery**, **React**, **Next.js**, **Supabase**, etc.
+- 💬 Ask me about **RAG**, **fine-tuning**, **MCP**, **spec-driven development**, **Python**, **BigQuery**, etc.
 <br><br>
 
 ## 💻 &nbsp;Things I code with
