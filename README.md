@@ -25,9 +25,9 @@
 
 ## 🚀 &nbsp;What I've been building
 <br></br>
-- **Suri MCP:** MCP server that exposes Suridata's health portfolio engine to AI agents
-- **Data Platform API:** FastAPI service on top of BigQuery serving the BI platform
-- **Health ETL pipelines:** bronze/silver pipelines on GCP for claims and premium data from ~70 insurers
+- **Suri MCP:** MCP server on Cloud Run that lets a broker's AI agent (Claude, ChatGPT) query aggregated health data from its own portfolio, with LGPD privacy guards
+- **Data Platform API:** FastAPI service with JWT auth for querying BigQuery data by company and period
+- **Health ETL pipelines:** bronze/silver pipelines in Python on GCP, deployed with Cloud Build
 - **Control Tower:** SLA dashboard tracking the whole data delivery operation
 - **Quality automation:** replacing manual QA tasks and legacy Qlik flows with automated checks
 <br></br>
