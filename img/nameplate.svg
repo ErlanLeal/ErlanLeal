@@ -6,7 +6,7 @@
 @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
 <defs><linearGradient id="rgn" x1="0" x2="1"><stop offset="0" stop-color="#ff3b30" stop-opacity="0"/><stop offset=".25" stop-color="#ff3b30"/><stop offset=".5" stop-color="#3a3a3a"/><stop offset=".75" stop-color="#2ee88a"/><stop offset="1" stop-color="#2ee88a" stop-opacity="0"/></linearGradient>
 <filter id="rfn" x="-10%" y="-300%" width="120%" height="700%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect class="rl" x="280" y="17" width="340" height="2" fill="url(#rgn)" filter="url(#rfn)"/>
+<rect class="rl" x="0" y="17" width="900" height="2" fill="url(#rgn)" filter="url(#rfn)"/>
 <rect class="dia" x="445" y="13" width="10" height="10" fill="#0d1117" stroke="#2ee88a" stroke-width="1.6"/>
 <text class="r" x="450" y="52" text-anchor="middle">PLATFORM · DATA · AI</text>
 </svg>
