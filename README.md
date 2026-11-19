@@ -19,9 +19,18 @@
 
 **Data & Platform:** BigQuery · Cloud Storage · Cloud Functions · Cloud Build · Secret Manager · Airflow · Databricks · Pandas · Pandera · Pydantic
 
-**AI & Automation:** MCP (FastMCP) · Claude · Activepieces · Trello automations
+**AI & Automation:** MCP (FastMCP) · Claude · Activepieces
 
 **BI:** Power BI · Qlik Sense
+
+## 🚀 &nbsp;What I've been building
+<br></br>
+- **Suri MCP:** MCP server that exposes Suridata's health portfolio engine to AI agents
+- **Data Platform API:** FastAPI service on top of BigQuery serving the BI platform
+- **Health ETL pipelines:** bronze/silver pipelines on GCP for claims and premium data from ~70 insurers
+- **Control Tower:** SLA dashboard tracking the whole data delivery operation
+- **Quality automation:** replacing manual QA tasks and legacy Qlik flows with automated checks
+<br></br>
 
 ## 🫀 &nbsp;About me
 <br></br>
