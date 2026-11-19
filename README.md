@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="img/top-01.png">
+	<img src="img/banner.jpg" alt="Erlan D'Almeida banner" />
 </p>
 
 <p align="center">
